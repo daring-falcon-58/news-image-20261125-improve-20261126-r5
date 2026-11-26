@@ -1,5 +1,9 @@
 # Wednesday 25 November 2026 — The World in One Day (round 5)
 
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/daring-falcon-58/news-image-20261125-improve-20261126-r5/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/daring-falcon-58/news-image-20261125-improve-20261126-r5/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
 ## Methodology (read this first)
 
 This entry is a single 1024×1024 broadsheet that sums up **one day** of world
