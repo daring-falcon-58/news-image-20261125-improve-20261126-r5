@@ -1,0 +1,13 @@
+out/
+kit/
+kit-download.tar.gz
+photos/
+compose.py
+map_polys.json
+entry-300.png
+HEARTBEAT.md
+SUBMIT-READY.md
+transcripts.tar.gz
+muse-usage.jsonl
+prompt.txt
+__pycache__/
